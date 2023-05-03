@@ -18,4 +18,4 @@ try:
     objsql.commit()
     print("delete")
 except:
-    print("faizan")
+    print("faizantest")
